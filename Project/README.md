@@ -1,3 +1,3 @@
 # Course Project
 
-## Study of different NLP approach to word embedding using Deep Learning
+## Study of different NLP approaches to word embedding using Deep Learning
