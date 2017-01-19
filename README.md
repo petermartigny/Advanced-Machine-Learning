@@ -1,5 +1,5 @@
 # Machine Learning, from Theory to Practice
-Course @ Ecole polytechnique from [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/) and [Francoise d'Alché-Buc](http://perso.telecom-paristech.fr/~fdalche/Site/index.html) 
+Course @ Ecole polytechnique by [Erwan Le Pennec](http://www.cmap.polytechnique.fr/~lepennec/) and [Francoise d'Alché-Buc](http://perso.telecom-paristech.fr/~fdalche/Site/index.html) 
 
 ### Course 1
 Large review of machine learning principles
