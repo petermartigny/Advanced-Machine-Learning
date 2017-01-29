@@ -1,4 +1,4 @@
-# Statistical-Learning - Course Project
+# Machine Learning: From Theory to Practise - Course Project
 
 # Amazon book reviews Data Set (https://archive.ics.uci.edu/ml/datasets/Amazon+book+reviews)
 
